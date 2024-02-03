@@ -1,0 +1,676 @@
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development.
+
+A process is a collection of code, data and other system resources including at least one thread of execution that performs a data processing task.
+
+
+Machine learning is a branch of artificial intelligence and science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
+
+
+ 
+i am fine, how are you by the way, hope you are fine.
+
+
+i am csebot, who will be assisting you in computer science common definitions, are youu ready.
+
+
+what am i doing?, helping you with your definitions.
+
+
+A chatbot is a program designed to simulate conversation with human users, especially over the internet.
+
+
+abstract data type (ADT) is a mathematical model for data types in which a data type is defined by its behavior (semantics) from the point of view of a users of the data, specifically in terms of possible values, possible operations on data of this type, and the behavior of these operations. This contrasts with data structures, which are concrete representations of data from the point of view of an implementer rather than a users.
+
+
+abstract method is one with only a signature and no implementation body. It is often used to specify that a subclass must provide an implementation of the method. Abstract methods are used to specify interfaces in some languages.
+
+
+agile software development is an approach to  development under which requirements and solutions evolve through the collaborative effort of self-organizing and cross-functional teams and their customer(s)/end users.
+
+
+algorithm is an unambiguous specification of how to solve a class of problems. Algorithms can perform calculation, data processing, and automated reasoning tasks. They are ubiquitous in computing technologies.
+
+
+algorithm design is a method or mathematical technique for problem-solving and for engineering algorithms. The design of algorithms is part of many solution theories of operation research, such as dynamic programming and divide-and-conquer, Techniques for designing and implementing algorithm designs are also called algorithm design patterns.
+
+
+algorithmic efficiency is a property of an algorithm which relates to the number of computational resources used by the algorithm. An algorithm must be analyzed to determine its resource usage, and the efficiency of an algorithm can be measured based on usage of different resources.
+
+
+
+
+
+American Standard Code for Information Interchange (ASCII) is a character encoding standard for electronic communications. ASCII codes represent text in telecommunications equipment, and other devices. Most modern character-encoding schemes are based on ASCII, although they support many additional characters.
+
+
+application programming interface (API) is A set of subroutine definitions, communication protocols, and tools for building app. In general terms, it is a set of clearly defined methods of communication among various components. A good API makes it easier to develop a program by providing all the building blocks, which are then put together by the programmer.
+
+
+application software also simply application or app is a software designed to perform a group of coordinated functions, tasks, or activities for the benefit of the users. 
+
+
+array data structure is a data structure consisting of a collection of elements (values or variables), each identified by at least one array index or key. An array is stored such that the position of each element can be computed from its index tuple by a mathematical formula.
+
+
+artifact is one of many kinds of tangible by-products produced during the development of an app.
+artificial intelligence (AI) is Intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals. In c science, AI research is defined as the study of "intelligent agents": devices capable of perceiving their environment and taking actions that maximize the chance of successfully achieving their goals.
+
+
+
+associative array is an associative array, map, symbol table, or dictionary is an abstract data type composed of a collection of (key, value) pairs, such that each possible key appears at most once in the collection.  
+
+
+automata theory is the study of abstract machines and automata, as well as the computational problems that can be solved using them. It is a theory in theoretical  science and discrete mathematics (a subject of study in both mathematics.
+
+automated reasoning is an area of c science and mathematical logic dedicated to understanding different aspects of reasoning. The study of automated reasoning helps produce programs that allow computers to reason completely, or nearly completely, automatically. Although automated reasoning is considered a sub-field of artificial intelligence, it also has connections with theoretical science, and even philosophy.
+
+
+Access Control is a way of limiting access to a system or to physical or virtual resources.
+
+Access Time is the time interval between the instance at which data is called from a storage device and the instance when delivery begins.
+
+
+Accumulator is a local storage area called a register, in which the result of an arithmetic and logic operation is formed.
+
+Active Cell refers to the currently selected cell in a spreadsheet. It can be identified by a bold outline that surrounds the cells.
+
+Active Window is the currently focused window in the current window manager.
+
+an algorithm is a procedure for accomplishing some tasks which given an initial state, will terminate in a detinned end-state.
+
+
+Alphanumeric is A character set that contains letters, digits and other special character such as @,$,+,*,%,etc.
+
+Antivirus  consists of programs that attempt to identify threat and eliminate system viruses and other malicious app (malware).
+
+Application Software is a subclass of computer software that employs the capabilities of a computer directly to a task that the users wishes to perform.
+
+
+Arithmetic Logic Unit (ALU):- It is a part of the execution unit, a core component of all systems. ALUs are capable of calculating the results of a wide variety of basic arithmetical and logical Computations.
+
+
+Assembler is a program that translates mnemonic statement into executable instructionnn.
+
+
+Attribute is The characteristics of an entity are called its attributes.
+
+Authentication is in which the credentials provides are compared to those on a system.
+
+Auxiliary Memory is also known as secondary memory that is not directly addressable by the unit.
+
+
+Backspace Key is used to delete the text backspace will delete the text left side of the cursor.
+
+Backup is A copy of item of data made in case the original is lost and damaged.
+
+Bandwidth is the maximum amount of data that can travel in a communication path in a given time, measured in bits per second (bps).
+
+Bar Code is a machine-readable representation of information in a visual format on a surface.
+
+Batch File is a text file that contains a sequence of commands tor a  operating systemm (LDOS).
+
+Binary Coded Decimal:- (BCD) A system in which a 4 digit binary number represents each decimal digit from 0 to 9.
+
+Bit is the most basic information unit used in computing and information theory.
+
+Blog is a discussion or informational site published on the world wide web.
+
+Bomb is A type designed to activate at a specitic date and time on your computer.
+
+
+Bluetooth is A protocoll that permits a wireless exchange of information between computers, cell phones and other electronic devices.
+
+Booting is a bootstrapping in which it starts the operating systemm when a computer is switched ON.
+
+Browser is A special app that enables users to read/view Web pages and jump from one Web page to another.
+
+Buffering is The technique of storing data in a memory device, allowing the devices to change the data rates.
+
+Bug is A app bug is a flaw, failure, or fault in a computer program or system that produces an incorrect or unexpected result.
+
+Bus is A circuit that provides a communication path between two or more devices of a digital computer system.
+
+Byte is commonly used as a unit of storage measurement in computers, regardless of the type of data being stored.
+
+
+Cell is a box in a spreadsheet, in which you can enter a single piece of data.
+
+Central Processing Unit (CPU) performs the actual processing of data, The CPU is generally called by its generic name Processor. It is also known as the brain of computer.
+
+Channel is A communication channel can be a physical link, such as a cable that connects two stations in a network or it can consist of some electromagnetic
+transmission.
+
+Chatting means Typing text into a message box on a screen to engage in dialog with one or more people via the Internet or other network.
+
+
+Chip is a tiny wafer of silicon containing miniature electric circuits that can store millions of bits of information.
+
+Client-Server is a network architecture which separates the client from theserver. Each instance of the client can send requests to a application-server.
+
+Coding  means the transformation of data into a form understandable by computer app.
+
+Command is a directive to a computer program acting as an interpreter of some kind, in order to perform a specific task.
+
+Compile is the technique of converting high level languages to machine language.
+
+Compiler is a computer program that translates a series of instructionnns from high level language to machine language.
+
+Communication is a system of rules that allow two or more entities of a communications system to transmit information.
+
+Computer Network is a system for communication among two or more computers.
+
+Computer Graphics are visual presentations on a computer screen. Examples are photographs, drawings, line arts, graphs or other images.
+
+Cold Boot:- When a computer restarts after the power cut, is called cold boot.
+
+Control Panel is the part of Windows menu, accessible from the Start menu, which allows users to view and manipulate basic system settings and controls, adding/removing8 program, controlling user accounts, changing accessibility options, etc.
+
+Computer Worm is a self-replicating computer program.
+
+Control Unit:- It is the part of a processing unit that directs its operation. The outputs of this unit control the activity of the rest of the device.
+
+Corel Draw is A vector graphic edit app which is known as corel draw. It is mainly used in DTP (Desktop Publishing).
+
+Crawler is an Internet bot that systematically browse the world wide web, typically for the purpose of Web indexing. It is also called a Web spider.
+
+Cryptography is The conversion of data into a secret code for transmission over a public network.
+
+Cut is To remove an entity from a document.
+
+
+Data  is a collection of facts and figures which are not in directly usable form.
+
+Database is a collection of logically related information in an organised way so that it can be easily accessed, managed and updated is called a database.
+
+Data Abstraction is a simplified view of an object that includes only features one is interested in while hides away the unnecessary details.
+
+Data Entry is a Direct info in the appropriate fields of a database known as data entry.
+
+Database Management System DBMS is a collection of various programs. It provides a systematic way to Create, retrieve, update and manage data.
+
+Data Processing is Converting data into information, is called data processing.
+
+Data Redundancy: is a condition created within a database or data storage technology in which the same piece of data is held in two separate places.
+
+Data Flow Diagram (DFD is a graphical representation of the flow of data through
+information system. Debugging A methodical step of finding and reducing the number of bugs, or defects are known as debugging.
+
+Degree is the number of fields associated with the database table or relation.
+
+Desktop Publishing (DTP) combines a personal computer, page layout app and a printer to create publications on small economic scale.
+
+Device Driver is A device driver, often called a driver for short, is a computer program that enables another program, typically, an operating systemm.
+
+Dial-up Line is A line through which communication established known as dial-up line.
+
+Digital Clock is A type of clock that located on motherboard and display digital signals.
+
+Direct Access is the capability of the computer equipment to obtain information from a storage device.
+
+Directory:- In computing, a directory is an entity in a system which contains a group of files and other directories. Together, the directories form a hierarchy
+or a tree structure.
+
+Domain Name is A unique name that identifies a particular Website and represents the name of theserver where the Web pages reside.
+
+Dots Per Inch (DPI) is defined as the measure of the resolution of a printer, scanner or monitor. It refers to the number of dots in a one inch line.
+
+Download refers to the act of transmitting contents from a remote computer on the Internet or other network to one’s own computer.
+
+Keyboard is the standard innput device attached to all computer,  the layout of keyboard is just like traditional typewriter of the type QWERTY.
+
+Drag and Drop:- In computer graphical user interfaces, drag and drop is the action of clicking on a virtual object and dragging it to a different location or onto another virtual object.
+
+Dumb Terminal is A computer terminal with no processing or programming capabilities, generally used for simple data entry or retrieval tasks.
+
+DVD is an optical disc storage media format that can be used for storage including movies with high quality video and sound.
+
+Dynamic RAM DRAM is a type of random access memory which stores each bit of data in a separate capacitor.
+
+
+EBCDIC (Extended Binary Coded Decimal Interchange Code):- It is an 8-bit character encoding used on 1BM mainframe operating systems, like Z/OS, S/390, AS/400 and i5/OS.
+
+E-Commerce is an Electronic commerce type of industry where buying and selling of product or services is conducted over electronic systems such as the Intranet and other computer network. .
+
+Electronic Data Processing (EDP):- A data processing through equipment that is predominantly electronic such as digital computer.
+
+Electronic mail:- E-mail is a method of composing, sending, storing and receiving messages over electronic communication systems.
+
+In cryptography, encryption is the technique of encoding messages (or information) in such a way that hackers cannot read it, but the authorised users
+can access it.
+
+End User is Any individual who uses the information generated by a computer based system.
+
+Entity is something that has certain attributes or properties which may be assigned values.
+
+Error Message is information displayed when an unexpected condition occurs usually on a computer or other device.
+
+Escape Key is a key that permits to leave one segment of a program and move to another.
+
+Excel allows users to create spreadsheets much like paper ledgers that can perform automatics calculations.
+
+Exe (exe):- It is a common filename extension denoting an executable  program in the DOS,MS Windows.
+
+Execution Time is The total time required to execute a program on a particular system.
+
+Expansion Slot is ‘a socket on the motherboard that is used to insert an expansion card which provides additional features to a computer.
+
+Extranet is A technology that permits the users of one organization’s Intranet to enter portions of another organization’s Intranet in order to conduct business transactions or collaborate on joint projects.
+
+
+
+Fax It stands for ‘Facsimile’. It is used to transmit a copy of a document electronically.
+
+Field The attributes of an entity are written as fields in the table representation.
+
+
+File is A collection of information stored electronically and treated as a unit by a computer.
+
+
+File Allocation Table (FAT):- It is the name of a computer file system architecture. The FAT filesystem is a legacy file system which is simple and robust.
+
+
+File Manager is an operating systemm utility that provides a interface to work with file systems.
+
+
+Firewall is A security system usually consisting of software that prevents unauthorised persons from accessing certain parts of a program.
+
+
+
+Flowcharts are the means of visually representing the flow of data through an information processing system, the operations performed within the system and the sequence in which they are performed.
+
+
+Foreign Key is a field in a database table, which links it to another related table.
+
+
+Format is To set margins, tabs, font or line spacing in layout of a document.
+
+
+FORTRAN is a name stands for formula translating system. The language was designed at IBM for scientific computing.
+
+
+Freeware is a form of app distribution where the author retains copyright of the app but makes the program available to others at no cost.
+
+
+Function Key is a special key on a computer keyboard or a terminal devices that is used to perform specific functions.
+
+
+Gateway is a device that is used to joint together two networks having different base protocols.
+
+Gigabyte (GB) is a unit of information or computer storage equal to approximately one billion bytes.
+
+Gigahertz (GHz) is A measurement used to identify the speed of the central processing unit. One gigahertz is equal to 1 billion cycles per second.
+
+Graphic Display Unit (GDU) is also known as Visual Display Unit. This displays characters graphics representing data in a computer memory.
+
+Graphic Interchange Format (GIF) is A simple format for pictures and photographs, that are compressed so they can be sent quickly.
+
+Graphic Tablet is an inputt device which is used to create images, etc.
+
+Graphical User Interface (GUI) is a method of interacting with a computer through a metaphor of direct manipulating of graphical images and widgets in addition to text.
+
+
+
+
+Hacker is a computer criminal who penetrates and tempers with computer programs or systems.
+
+Hang is To crash in such a way that the computer does not respond to from the keyboard or mouse.
+
+Hard Copy is a printed copy of information from a computer.
+
+Hard Disk is a non-volatile data storage device that stores data on a magnetic surface layered onto disk platters.
+
+Hardware is The mechanical, magnetic, electronic and electrical components that comprises a computer system.
+
+High-Level Programming Languages is a is a programming language that is more user-friendly, to Some extent platform-independent and abstract from low-level computer processor operations such as memory accesses.
+
+Home Page is a A starting point or a doorway to the Website,. It refers to the Web page that identities a Website and contains the hyperlink to other Web pages in the Website.
+
+
+Host Computer is a computer that provides information or a service to other computers on the Internet. Ever host computer has its own unique host name.
+
+Hub is a network device that connects multiple computers on a LAN, s0 that they can communicate with one another.
+
+Hybrid Computer are made by taking the best features of the analog computer and digital computer. A simple example of this type is the
+computer used in hospitals.
+
+
+Hyperlink is an image or portion of text on a Web page that is linked to another Web page.
+
+Hyper Text Markup Language stands for HTML is mainly used for design Websites.
+
+Hyper Text Transfer Protocoll (HTTP):- It is an important protocol used on the world wide web for moving hypertext across the Internet.
+
+
+Icon is a symbol (such as picture or a folder) that Icon represents a certain function on your computer. When the person clicks on the icon, the appropriate function is executed.
+
+Information is the summarisation of data according to a certain pre-defined purpose.
+
+Input is to give instructionnns to a computer, the contents has to be supplied to it.
+
+Instant Messaging (IM) is a chat program that lets people communicate over the Internet in real time.
+
+instruction is a A command or order given to a computer to perform a task.
+
+instruction Cycle is Fetching and decoding operations of the machine cycle.
+
+Interface is A device or program that helps a users to communicate with a computer.
+
+Interpreter is A program that converts and executes the source code into machine code line by line.
+
+Internet is a A vast computer network linking smaller computer networks worldwide is called internet.
+
+Internet Surfing is To search something on Internet is called surfing.
+
+
+Internet Service Provider (ISP) is a business organisation that offers users access to the Internet and related services.
+
+
+Integrated Circuits is a Multiple electronic components combined on a silicon chip.
+
+Node is The endpoint of a network branch or the junction of two or more branches.
+
+
+
+Java is A programming language, used to crate mobile applications, programs etc.
+
+Javascript is an object oriented programming language used to create interactive effects in a Web.
+
+JPEG (join photographic expert group):- it is a commonly used method of compression for digital photography.
+
+Joystick is a computer peripheral expert general device consisting of a handheld stick that pivots about one end and transmit its angle in two or three dimensions to a computer.
+
+
+Kernel is the fundamental part of program, such as an operating systemm, that resides in memory at all times.
+
+
+
+Key Field is A unique field in a record used to distinguish one record from another.
+
+Key Stroke is the proces of pressing button in keyboard.
+
+Kilobyte (KB):- It is a unit of information or computer storage equal to 1024 bytes.
+
+
+
+LAN stands for Local Area Network, in a LAN the connected computers are geographically close together, They are either in the same building or within that lets smaller area.
+
+Laptop is a small, lightweight and portable battery-powered computers that can fit onto your lap, They each have a thin, flat and liquid crystal display screen.
+
+Light Pen is A light sensitive style for forming graphics by touching coordinates on a display screen, thereby a users to seeming to draw directly on the screen.
+
+Link is A communication path between two channels.
+
+LINUX is an open source operatingg systemm, meaning smaller that the source code of the operating systemm is freely available to the public.
+
+List Processing (LISP):- A high level programming language suitable for handling logical operations and non-numeric applications.
+
+Log In is the technique by which an individual gains access to a computer system by identifying and authenticating themselves.
+
+
+
+Low Level Language is a assembly language which is used in computer, it was mostly used in first generation computers.
+
+
+Machine Language is The language of computer also called binary language. instructionnns in this language are written as a sequence of of 0’s and 1’s.
+
+Mostly a mainframe is only a mainframe when compared to a desktop computer. It is bigger and much more powerful.
+
+Mass Storage is referred to storage where large such volumes of backup/data is stored.
+
+Megabyte (MB):- 1 Megabyte is equal to 1048576 bytes, usually rounded off to one million bytes. It is also called a “meg”.
+
+Memory is Temporary storage for information, including applications and documents.
+
+Menu Bar is The horizontal strip across the top of an application’s window. Each word on the strip has a context sensitive drop-dowm menu containing features and actions that are available tor the application in use.
+
+Merge is Combining two or more entity into a single entity.
+
+
+Microcomputer is A microprocessor based computer, junction, internal semiconductor memory, innput and output sections and a system bus, all on one, Non-Volatile or several monolithic 1C chips inserted into one or data several PC boards.
+
+Microprocessor is A complete Central Processin Unit Notebook  contained on a single silicon chip.
+
+
+Midi:- It stands for Music Instrument Digital Interface. It allows a computer to store and replay a musical instrument’s output.
+
+
+Minicomputer is Considered to be more capable than a microcomputer but less powerful than a mainframe.
+
+MIPS is  An acronym derived from Million of instructionnns Offline Per Second. It is used to measure the speed of a processor.
+
+Mnemonic is A symbolic label or code remainder that Online assists, the users in remembering a specific operation or command in assembly language.
+
+Modem is An acronym for Modulator/Demodulator that refers to specific equipment that provides a means of communication between two computer systems over
+Operation conventional telephone lines.
+
+Monitor is The visual readout device of a computer system. A monitor can be in several forms; a Cathode Ray Tube Operating (CRT), a Liquid Crystal Display (LCD), or a flat-panel, full-color display.
+
+MS-DOS (Microsoft Disc-Operating System):- An early operating systemm developed by Microsoft Corporation.
+
+Multitasking:- It can simultaneously work with several Output programs or interrelated tasks that share memories.
+
+Multithreading is a facility available in an operating Peripheral system that allows multiple functions from the same application packages.
+
+Multimedia is a programs that combine text and Personal graphics with sound, video and animation. A multimedia PC contains to support these capabilities.
+
+
+
+Network is an interconnection of two or more than two computer.
+
+
+Network Interface Card (NIC):- This is a part of the computer that allows it to talk to other computers via a network protocol like TCP/IP.
+
+Nibble is  A sequence of four adjacent bits, or a half byte. A hexadecimal or BCD coded digit can be represented by a nibble.
+
+
+
+
+
+Non-Volatile Memory is  A memory where stored one, data remains undisturbed by the removal of electrical power.
+
+
+Notebook is A portable computer, that can fit into a briefcase. It is used as personal computer. It is also called laptop.
+
+
+Object is Something that contains both the data and the application that operate on that data.
+
+
+Object Code is a Machine language code produced by a translator program, such as an assembler, interpreter, or compiler.
+
+
+Offline refers to the state in which a computer is temporarily or permanently unable to communicate with another computer.
+
+
+Online refers to the state of being connected to the networked computer system or the Internet.
+
+
+Operand is the part of a machine level instructionnn which tells the central processor, the location of the data to be manipulated by some operation.
+
+
+Operation Code (Op-Code):- Part of a computer instructionnn word that designates the function performed by a specific instructionnn.
+
+Operating System is a set of instructionnns that tells a computer on how to operate when it is turned ON. It sets up a filing system to store programs and tells the computer how to display information on a video display.
+
+
+
+Output is a Data that come out of a computer device.
+
+
+Patch is a small program that improves an existing piece of app.
+
+Peripheral is An auxiliary device used to put information into and get information out of the computer.
+
+Personal Computer  PC is A single computer containing a Central Processing Unit  and one or more memory circuits.
+
+Piracy is The illegal copying of program or other creative works.
+
+Pixels is An acronym derived from picture element. The smallest element (a dot) on a display screen.
+
+Plug-In is a program that system uses manipulate a downloaded app.
+
+Portrait is A term that designates the position of conventional printing across the width of a page.
+
+Past Office Protocol (POP):- A protocol that specifies how a personal computer can connect to a mail on the internet and download E-mail
+
+Primary Key is a key that uniquely identifies each tuple or row in a table.
+
+
+
+Program is A set of instructionnns to perform a specific task
+
+Programming Language is A vocabulary and set of grammatical rules tor instructing a computer to perform specific tasks.
+
+Prompt is An onscreen symbol, (e.g. cursor) that indicates where to type of command.
+
+Printer is A mechanical device for printing a computer’s output on paper.
+
+Protocol is A set of rules that defines exactly how information is to be changed between two systems over Internet.
+
+Pseudocode is a short hand way of describing a computer program
+
+
+Query is A request for information from a database.
+
+
+
+Random Access Memory (RAM):- A volatile, semiconductor storage structure that accesses temporary data with a random or direct accessing method.
+
+
+Read Only Memory (ROM):- A semiconductor memory whose data cannot be erased, or overwritten, it can only be accessed (read) for use by cp.
+
+
+Record is A collection of all the information pertaining to a particular entity instance.
+
+Register is A temporary storage unit for quick, direct accessibility of a small amount of data for processing.
+
+Remote Server is A network computer that allows users on the network from a distant location to access information.
+
+
+Response Time is The total time elapsed between submission of command and data to a computer and getting the result of computation.
+
+Apache is an open-source and free web server software.
+
+Arithmetic Operators are used with numbers to perform basic math, for example “+” for addition. 
+
+ Autonomous is Self-guiding and able to work independently without input from a person. Many drones and some cars are autonomous.
+
+
+Router is  A network device that enables the network to reroute messages it receives that are intended for The network with the router receives and sends it on its way exactly as received.
+
+
+Routing is The technique of choosing the best path throughout the LAN.
+
+
+Scanner is An electronic device that uses light-sensing equipment to scan paper images such as text, photos, illustrations and translate the images into signals that
+the computer can then store, modify, or distribute.
+
+
+Search Engine is an app that makes it possible to look for and retrieve information on the Internet, particularly the Web. Some popular search engines are AltaVista, Google, HotBot, Yahoo., Web Crawler and Lycos. Sector A section of a recording track on a magnetic disk.
+
+
+Sequential Access is a class of data storage device that read stored data in a sequence.
+
+
+Server is  A computer that shares its resources and information with other computers on a network.
+
+
+Shareware is A program that is not free but is available for a free trial period.
+
+
+Shell is an outer layer of a program that provides that interface or the way of instruct the computer.
+
+
+Simplex is Transmission of data in one direction only.
+
+
+Software is The let of computer programs, procedure and associated documentation related to the effective operation.
+
+
+Source Code is (Source Program) A set of computer instructionnns in hard-copy or stored form.
+
+
+Spreadsheet is an app that allows one to calculate numbers in a format that is similar to pages in a conventional ledger.
+
+
+Sub Program is a particular part of a program that
+complete the special work.
+
+
+Super Computer is The largest mainframe computer featuring exceptionally high speed operation while manipulating huge amounts of information.
+
+
+TCP/IP:- Stands for Transmission Control Protocoll/Internet Protocoll. This is a large grouping of programs and standards that govern how information moves round the Internet.
+
+Terabyte (TB) is about a trillion bytes. Actually it’s 2 or 10095111627776 bytes.
+
+Terminal is what you look at when you’re on the Internet. It’s your computer screen.
+
+Time Sharing is to the allocation of computer resources in a time dependent fashion to run several programs simultaneously.
+
+Topology is The structure of the network including physical connection such as wiring schemes and logical interactions between network devices.
+
+Track is A ring on the surface of a magnetic disk.
+
+Trackball is a Innput device that controls the position of the cursor on the screen.
+
+
+Uniform Resource Locator:- (URL) The specific Internet address for a resource such as an individual or an organisation.
+
+Unix is an operating systemm developed by AT &
+T, It is a big push that it allows one unit to serve
+many different end users at one time.
+
+Upgrade is the proces of improve functionality.
+
+Upload is The techniques of transferring information from a computer to a Website (or other remote location on a network).
+
+UPS:- (Universal Power Supply or Uninterruptible Power Supply) An electrical power supply that includes a battery to provide enough power to a computer during an outage to back-up data and properly shut down.
+
+User is A person who uses or operate something.
+
+User-Friendly is A program that has been designed to easily direct the user through the operation or application of a program.
+
+
+Validation is The technique of making sure that the forms and documents from a particular transaction are correct.
+
+Video Teleconferencing is A remote face-to-face chat, when two or more people using a webcam and an Internet telephone connection chat online. The webcam enables both live voice and video.
+
+Virus is A piece of computer code designed as a prank or malicious act to spread from one computer to another by attaching itself to other programs.
+
+Volatile Memory is A memory whose contents are irretrievably lost when power is removed. If data in Ram must be saved after power shutdown, back-up in non-volatile memory (magnetic disk, tape, or Cd-R) is essential.
+
+Window is A portion of a computer display used in a graphical interface that enables users to select commands by pointing to illustrations or symbols with a mouse.
+
+Wide Area Network is a telecommunications network or computer network that extends over a large geographical distance.
+
+Word Processor is A computer system or program for setting, editing, revising, correcting, storing and printing text.
+
+World Wide Web (WWW or ‘The Web’) is A network of servers on the Internet that use hypertext-linked databases, It was developed in 1989 by Tim Berners-Lee, a British computer scientist and is now
+the primary platform of the Internet.
+
+Workgroup is Persons sharing and data between themselves.
+
+Workstation is The work area and/or equipment used for computer operations, including computer-aided design (CAD). The equipment generally consists of a monitor,printer and/or plotter and other output devices.
+
+
+X-Y Plotter is A computer-driven printing mechanism that draws coordinate points in graph form.
+
+
+ZOOM is The enlarging or reducing an image displayed on a computer technique of proportionately monitor.
+
+ZIP:- Stands for Zone Information Protocoll. This is an application that allows for the compression of application.
+
+Zombie is A computer that has been hijacked by a cracker without the owner knowledge and used to perform malicious tasks on the Internet.
+
+The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes for creating high-quality software.
+
+Context Free Grammar is formal grammar, the syntax or structure of a formal language can be described using context-free grammar (CFG), a type of formal grammar.
+
+Literals are the Constant values that are assigned to the constant variables.
+
+A singly linked list is a linear data structure in which the elements are not stored in contiguous memory locations.
+
+A doubly linked list (DLL) is a special type of linked list in which each node contains a pointer to the previous node as well as the next node of the linked list.
+
+
+Cipher text is encrypted text transformed from plaintext using an encryption algorithm.
